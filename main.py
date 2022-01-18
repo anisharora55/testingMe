@@ -1,2 +1,1 @@
-print("Nice!")
-return "ok"
+return "NIee"
