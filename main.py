@@ -1,1 +1,3 @@
-return "NIee"
+def func():
+  return "Nice"
+func()
